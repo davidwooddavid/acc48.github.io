@@ -5,7 +5,6 @@ document.write('\
 <ul>\
 	<li><a href="index.html">Home</a></li>\
 	<li><a href="enquiries.html">Enquiries</a></li>\
-	<li><a href="poster.html">Poster</a></li>\
 	<li><a href="registration.html">Registration</a></li>\
 	<li><a href="talks.html">Contributed Talks</a></li>\
 	<li><a href="programme.html">Programme</a></li>\
